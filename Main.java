@@ -1,9 +1,5 @@
 import java.util.ArrayList;
 
-/**
- *
- * @author zazi1
- */
 public class Main {
 
     public void Programa_principal(){
